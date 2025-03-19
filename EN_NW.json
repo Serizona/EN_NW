@@ -23,7 +23,7 @@
             "path": "kidney.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/kidney.stl",
             "opacity": 1.0,
-            "color": "#814e00",
+            "color": "#d8654f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,

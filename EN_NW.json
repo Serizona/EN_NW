@@ -1,11 +1,11 @@
 {
     "models": [
         {
-            "name": "Kidney.stl",
-            "path": "Kidney.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/Kidney.stl",
+            "name": "artery.stl",
+            "path": "artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/artery.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d8654f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -19,9 +19,9 @@
             }
         },
         {
-            "name": "artery.stl",
-            "path": "artery.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/artery.stl",
+            "name": "kidney.stl",
+            "path": "kidney.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/kidney.stl",
             "opacity": 1.0,
             "color": "#d8654f",
             "material": {

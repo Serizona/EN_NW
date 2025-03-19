@@ -1,13 +1,13 @@
-File STL		Volume (mm³)
+File STL		Volume (cm³)
 ========================================
-Kidney.stl		205663.23 mm³
-artery.stl		42846.87 mm³
-liver.stl		1073297.41 mm³
-lymph_node_1.stl		1792.08 mm³
-lymph_node_2.stl		104.05 mm³
-lymph_node_3.stl		141.99 mm³
-lymph_node_4.stl		130.02 mm³
-lymph_node_5.stl		214.62 mm³
-pancreas.stl		11316.68 mm³
-renal_vein.stl		27436.01 mm³
-vein.stl		23764.94 mm³
+Kidney.stl		205.66323 cm³
+artery.stl		42.84687 cm³
+liver.stl		1073.29741 cm³
+lymph_node_1.stl		1.79208 cm³
+lymph_node_2.stl		0.10405 cm³
+lymph_node_3.stl		0.14199 cm³
+lymph_node_4.stl		0.13002 cm³
+lymph_node_5.stl		0.21462 cm³
+pancreas.stl		11.31668 cm³
+renal_vein.stl		27.43601 cm³
+vein.stl		23.76494 cm³

@@ -1,5 +1,5 @@
 ID: EN
 Year of Birth: 1955
 Age: 70
-Study Date: 20-03-2025
-Clinical Information: Paziente operata per neoplasia pancreatica. Possibili linfonodi metastatici.
+Study Date: 03-03-2025
+Clinical Information:  Paziente operata per neoplasia pancreatica. Possibili linfonodi metastatici.

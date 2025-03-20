@@ -181,42 +181,6 @@
             }
         },
         {
-            "name": "tubular_artery.stl",
-            "path": "tubular_artery.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/tubular_artery.stl",
-            "opacity": 1.0,
-            "color": "#d93111",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
-            "name": "tubular_vein.stl",
-            "path": "tubular_vein.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/tubular_vein.stl",
-            "opacity": 1.0,
-            "color": "#0097ce",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
             "name": "vein.stl",
             "path": "vein.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/vein.stl",

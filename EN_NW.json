@@ -185,7 +185,7 @@
             "path": "tubular_artery.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/tubular_artery.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d93111",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "tubular_vein.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/EN_NW/main/tubular_vein.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#0097ce",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
